@@ -352,3 +352,6 @@ MigrationBackup/
 
 # macOS garbage
 .DS_Store
+
+# VSCode
+.vscode/
