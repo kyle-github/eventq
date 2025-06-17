@@ -355,3 +355,6 @@ MigrationBackup/
 
 # VSCode
 .vscode/
+
+# CMake
+build
